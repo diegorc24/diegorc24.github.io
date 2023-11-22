@@ -1,0 +1,60 @@
+body {
+    background-color: rgb(111, 228, 164);
+    padding: 3%;
+  }
+
+  .meuNome{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+  }
+
+  .descricao {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    top: 36%;
+    right: 8%;
+    text-align: center;
+  }
+
+.resido{
+  font-weight: 900;
+}
+  em {
+    color: rgb(67, 138, 83);
+  }
+
+  .javascript {
+    font-size: 20px;
+  }
+
+  .sql {
+    font-size: 18px;
+  }
+
+  .react {
+    font-size: 16px;
+  }
+
+  .bootstrap {
+    font-size: 14px;
+  }
+
+  .metoAgil {
+    font-size: 12px;
+  }
+
+  #foto{
+    float: left;
+    height: 280px;
+    padding: 10px;
+    background-color: blueviolet;
+  }
+
+  .image-container {
+    height: 300px;
+    position: relative;
+  }
+
+ul li:nth-child(odd){
+  background-color: aqua;
+}
+ 
